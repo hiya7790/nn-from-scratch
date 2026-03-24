@@ -46,21 +46,6 @@ pip install -r requirements.txt
 python src/train.py
 ```
 
-## Project Sturcture
-```bash
-neural-network-from-scratch/
-│── src/
-│   ├── model.py
-│   ├── train.py
-│   ├── utils.py
-│
-│── notebook/
-│   └── mnist_training.ipynb
-│
-│── README.md
-│── requirements.txt
-```
-
 ## Dataset
 MNIST Digit Recognizer dataset (Kaggle)
 
